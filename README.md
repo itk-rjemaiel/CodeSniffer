@@ -1,1 +1,1 @@
-# CodeSniffer
+# CodeSniffer.
